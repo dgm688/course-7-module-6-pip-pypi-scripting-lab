@@ -1,6 +1,5 @@
 """
 Automation Tool - Lab Solution
-Combines: file I/O, external packages (requests), and CLI with argparse + OOP
 """
 
 import argparse
